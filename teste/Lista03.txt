@@ -1,0 +1,9 @@
+Ler o arquivo 'starbucks.csv' de forma a ser contruir um dicionário, considerando: 
+  - Cada atributo (definido na 1a linha do arquivo) seja uma das chaves do dicionário
+  - Armazenar os valores associados a cada chave e tratar o seu tipo
+  - Realizar algumas verificações e 'visualizações': 
+    - Mostrar as 5 primeiras linhas do arquivo a partir do dicionário
+    - Mostrar o tipo de dados associado a cada coluna
+  - Crie uma função que retorne o valor máximo dos valores de um chave e teste para as colunas numéricas do dicionário 
+  (valor máximo da coluna)
+  
