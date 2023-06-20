@@ -1,0 +1,18 @@
+
+Crie as tabelas indicadas em ModeloBD.png
+1 - Carregar os dados dos arquivos nas respectivas tabelas 
+2 - Quantos estudantes obtiveram média acima de 83.5 ? 
+3 - Faça uma consulta que retorne os cursos dados ordenados em "ordem" alfabética. 
+4 - Faça uma consulta que retorne o nome de todas as pessoas cujo o último nome termina com "ez"
+5 - Quantos estudantes precisaram de 3 tentativas para serem aprovados 
+
+6 - Usando uma lógica condicional retorne : Id do aluno, nota, aprovado ou reprovado. Aprovado se nota >= 70.0 
+  Dica: Fazer conforme o exemplo ### Using Conditional Logic in a SELECT Statement ####  do notebook 
+
+
+7 - Realizar uma consulta que retorne os nomes dos cursos cuja a média obtida (AVG) pelo alunos foi maior ou igual 75.0  
+
+8 - Realizar uma consulta que retorne os email dos alunos que cursaram 3 vezes um mesmo curso 
+
+10 -  (DESAFIO) Realizar uma consulta que retorne os nomes dos professores mais carrascos - isto é - aqueles cujo o número de alunos reprovados (média menor que 70.0) foi maior do que de
+ alunos aprovados.
