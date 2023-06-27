@@ -14,5 +14,11 @@ Crie as tabelas indicadas em ModeloBD.png
 
 8 - Realizar uma consulta que retorne os email dos alunos que cursaram 3 vezes um mesmo curso 
 
-10 -  (DESAFIO) Realizar uma consulta que retorne os nomes dos professores mais carrascos - isto é - aqueles cujo o número de alunos reprovados (média menor que 70.0) foi maior do que de
+9 -  (DESAFIO) Realizar uma consulta que retorne os nomes dos professores mais carrascos - isto é - aqueles cujo o número de alunos reprovados (média menor que 70.0) foi maior do que de
  alunos aprovados.
+ 
+10 - Ache o ID dos estudantes que estão matriculados em mais de 3 curso. 
+
+11 - Ache o ID dos estudantes que estão matriculados em todos os cursos. 
+
+12 - Ache o nome e nota média de cada curso. 
